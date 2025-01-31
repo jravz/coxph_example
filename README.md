@@ -1,1 +1,1 @@
-# coxph_example
+# An example of Cox “proportional hazards” (PH) regression (CoxPH)
